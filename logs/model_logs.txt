@@ -1,0 +1,14 @@
+2024-06-19 15:33:30,712 Loading Whisper model: openai/whisper-medium
+2024-06-19 15:33:50,896 App: Saved recording to inputs/recording_20240619_153350.wav
+2024-06-19 15:33:50,898 App: Processing recording.
+2024-06-19 15:33:50,898 STTModel: Starting transcription.
+2024-06-19 15:33:51,384 STTModel: Completed transcription -  How can you be a helpful assistant?
+2024-06-19 15:33:51,384 LLMModel: Generating response for input text -  How can you be a helpful assistant?
+2024-06-19 15:33:52,457 LLMModel: Generated response -  How can you be a helpful assistant?
+
+I'm a good friend of yours, and I'm a good friend of yours. I'm a good friend of yours. I'm a good friend of yours. I'm a good friend of yours
+2024-06-19 15:33:52,463 TTSModel: Starting synthesis for text -  How can you be a helpful assistant?
+
+I'm a good friend of yours, and I'm a good friend of yours. I'm a good friend of yours. I'm a good friend of yours. I'm a good friend of yours
+2024-06-19 15:34:07,261 TTSModel: Completed synthesis - saved to output.wav
+2024-06-19 15:34:07,268 App: Completed processing and playback.

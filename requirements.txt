@@ -1,0 +1,11 @@
+streamlit==1.35.0
+streamlit-webrtc==0.47.7
+audio-recorder-streamlit==0.0.9
+librosa==0.10.2
+soundfile==0.12.1
+transformers==4.41.2
+numpy==1.22.0
+TTS==0.22.0
+librosa==0.10.0
+accelerate==0.31.0
+PyAudio==0.2.14
