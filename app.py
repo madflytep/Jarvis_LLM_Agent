@@ -55,7 +55,7 @@ if base_audio_bytes:
         audio_input, _ = sf.read(input_file_path)
         sf.write(speaker_wav, audio_input, 16000)  # Use the recorded audio as the speaker's voice
 
-    tts_audio_path = tts_model.synthesize(response, speaker_wav)
+    tts_audio_path = tts_model.synthesize(response)
 
     # Play TTS audio in Streamlit
     st.audio(tts_audio_path, format='audio/wav')

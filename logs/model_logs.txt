@@ -12,3 +12,81 @@ I'm a good friend of yours, and I'm a good friend of yours. I'm a good friend of
 I'm a good friend of yours, and I'm a good friend of yours. I'm a good friend of yours. I'm a good friend of yours. I'm a good friend of yours
 2024-06-19 15:34:07,261 TTSModel: Completed synthesis - saved to output.wav
 2024-06-19 15:34:07,268 App: Completed processing and playback.
+2024-06-19 16:43:10,674 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:43:10,674 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:45:07,572 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:45:07,573 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:45:07,573 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:45:16,150 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:47:21,182 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:47:21,182 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:47:21,182 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:47:21,182 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:49:29,469 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:49:29,469 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:49:29,469 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:51:33,586 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:51:33,586 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:51:33,586 DEvice for SST: cuda:0
+2024-06-19 16:51:33,586 DEvice for SST: cuda:0
+2024-06-19 16:54:53,717 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:54:53,717 DEvice for SST: cuda:0
+2024-06-19 16:55:14,785 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-19 16:55:34,353 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:55:34,353 DEvice for SST: cuda:0
+2024-06-19 16:56:35,629 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-19 16:57:24,749 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:57:24,749 DEvice for SST: cpu
+2024-06-19 16:57:43,010 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-19 16:57:50,870 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:57:50,870 DEvice for SST: cpu
+2024-06-19 16:57:52,386 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:57:52,386 DEvice for SST: cpu
+2024-06-19 16:58:33,326 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-19 16:58:34,280 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-19 16:58:42,483 Loading Whisper model: openai/whisper-medium
+2024-06-19 16:58:42,483 DEvice for SST: cpu
+2024-06-19 16:59:44,995 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-20 15:34:27,861 Loading Whisper model: openai/whisper-medium
+2024-06-20 15:34:27,862 DEvice for SST: cuda:0
+2024-06-20 15:36:06,003 Loading Whisper model: openai/whisper-medium
+2024-06-20 15:36:06,003 DEvice for SST: cuda:0
+2024-06-20 15:37:18,238 Loading Whisper model: openai/whisper-medium
+2024-06-20 15:37:18,238 DEvice for SST: cuda:0
+2024-06-20 15:37:42,605 App: Saved recording to inputs/recording_20240620_153742.wav
+2024-06-20 15:37:42,605 App: Processing recording.
+2024-06-20 15:37:42,605 STTModel: Starting transcription.
+2024-06-20 15:37:44,806 STTModel: Completed transcription -  Hello, what physics?
+2024-06-20 15:37:44,807 LLMModel: Generating response for input text -  Hello, what physics?
+2024-06-20 15:37:46,034 LLMModel: Generated response -  Hello, what physics?
+
+The answer is that the universe is a complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex
+2024-06-20 15:37:46,044 TTSModel: Starting synthesis for text -  Hello, what physics?
+
+The answer is that the universe is a complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex, complex
+2024-06-20 15:55:50,001 Loading Whisper model: openai/whisper-medium
+2024-06-20 15:55:50,001 Loading Whisper model: openai/whisper-medium
+2024-06-20 15:55:50,001 DEvice for SST: cuda:0
+2024-06-20 15:55:50,001 DEvice for SST: cuda:0
+2024-06-20 15:56:31,441 `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-06-20 15:56:31,441 Current `flash-attention` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2024-06-20 15:59:07,311 Loading Whisper model: openai/whisper-medium
+2024-06-20 15:59:07,312 DEvice for SST: cuda:0
+2024-06-20 15:59:35,469 `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-06-20 15:59:35,471 Current `flash-attention` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2024-06-20 16:02:21,545 Loading Whisper model: openai/whisper-medium
+2024-06-20 16:02:21,545 DEvice for SST: cuda:0
+2024-06-20 16:42:55,584 Loading Whisper model: openai/whisper-medium
+2024-06-20 16:42:55,584 DEvice for SST: cpu
+2024-06-20 16:43:18,609 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-20 16:44:14,691 Loading Whisper model: openai/whisper-medium
+2024-06-20 16:44:14,691 DEvice for SST: cpu
+2024-06-20 16:44:36,057 We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-06-20 16:47:24,896 Loading Whisper model: openai/whisper-medium
+2024-06-20 16:47:24,896 DEvice for SST: cpu
+2024-06-20 16:50:40,425 Loading Whisper model: openai/whisper-medium
+2024-06-20 16:50:40,425 Loading Whisper model: openai/whisper-medium
+2024-06-20 16:50:40,426 DEvice for SST: cpu
+2024-06-20 16:50:40,426 DEvice for SST: cpu
+2024-06-20 16:53:28,320 Loading Whisper model: openai/whisper-medium
+2024-06-20 16:53:28,320 DEvice for SST: cpu

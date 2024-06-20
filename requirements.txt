@@ -9,3 +9,4 @@ TTS==0.22.0
 librosa==0.10.0
 accelerate==0.31.0
 PyAudio==0.2.14
+bitsandbytes==0.43.1
